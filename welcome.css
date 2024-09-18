@@ -1,0 +1,18 @@
+button {
+  background: #08c;
+  text-align: center;
+  appearance: none;
+  opacity: .99;
+  width: 120px;
+  height: 30px;
+  border-radius: 4px;
+  color: #eee;
+  border: none;
+  cursor: pointer; 
+}
+
+img {
+  margin: 10px;
+  display: block;
+  max-width: 100%; 
+}
